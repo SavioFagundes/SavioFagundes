@@ -1,6 +1,6 @@
-# Oiii, eu sou o Sávio Fagundes Marques! 👋
+# Oii, eu sou o Sávio Fagundes Marques! 👋
 
-Criadora de conteúdo de **programação** e **tecnologia**!
+Criador de conteúdo de **programação** e **tecnologia**!
 
 ---
 
